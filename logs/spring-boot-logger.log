@@ -1,0 +1,15 @@
+2022-01-06 19:46:18,757 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootTutorialApplication using Java 17.0.1 on MBP-von-Gerhard.fritz.box with PID 10357 (/Users/is00434/Projekte/spring-boot-tutorial/target/classes started by is00434 in /Users/is00434/Projekte/spring-boot-tutorial)
+2022-01-06 19:46:18,758 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-01-06 19:46:18,786 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-01-06 19:46:18,786 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-01-06 19:46:19,261 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-01-06 19:46:19,266 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-01-06 19:46:19,266 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-01-06 19:46:19,266 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-01-06 19:46:19,289 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-01-06 19:46:19,290 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 503 ms
+2022-01-06 19:46:19,575 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-01-06 19:46:19,578 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 13 endpoint(s) beneath base path '/mgmt'
+2022-01-06 19:46:19,592 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-01-06 19:46:19,598 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-01-06 19:46:19,608 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootTutorialApplication in 1.075 seconds (JVM running for 1.321)
